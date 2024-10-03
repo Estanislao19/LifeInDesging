@@ -302,14 +302,13 @@ body {
 }
 
 .testimony__img{
-    width: 250px;
-    height: 250px;
-   
+    width: 350px;
+    height: 230px;
     object-position: 50% 30%;
 }
 .testimony__img1{
-    width: 207px;
-    height: 76px;
+    width: 266px;
+    height: 141px;
     object-position: 50% 30%;
 }
 
@@ -328,6 +327,10 @@ body {
 .testimony__arrow{
     width: 90%;
     cursor: pointer;
+}
+.imagen-new{
+    height: 250px;
+    width: 300px;
 }
 
 /* Questions */
@@ -568,8 +571,8 @@ body {
 
 
     .testimony__img{
-        width: 200px;
-        height: 200px;
+        width: 350px;
+        height: 230px;    
         
     }
     .testimony__img1{
